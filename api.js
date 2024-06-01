@@ -1,11 +1,10 @@
 /*
-  Author: Alvin Kiveu
+  Author: Timothy Munene
   Description: Mpesa Daraja API with Node JS
   Date: 23/10/2023
-  Github Link: https://github.com/alvin-kiveu/Mpesa-Daraja-Api-NODE.JS.git
-  Website: www.umeskiasoftwares.com
-  Email: info@umeskiasoftwares.com
-  Phone: +254113015674
+  Github Link: https://github.com/timomuraura/STK-MPESA
+  Email: timomuraura@gmail.com
+  Phone: +254702137666
   
 */
 
